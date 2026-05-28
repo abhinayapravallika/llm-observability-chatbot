@@ -10,7 +10,7 @@ __pycache__/
 
 # Environment variables
 .env
-
+test_models.py
 # Database
 *.db
 *.sqlite3
